@@ -1,0 +1,8 @@
+# 运行时产物
+output/
+out/
+*.log
+
+# 临时
+*.tmp
+*.bak
